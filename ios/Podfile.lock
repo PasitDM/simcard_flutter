@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - simnumber (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - simnumber (from `.symlinks/plugins/simnumber/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  simnumber:
+    :path: ".symlinks/plugins/simnumber/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  simnumber: 4cfffd8e4bc5832fbf7654502683dd5f9b878085
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
