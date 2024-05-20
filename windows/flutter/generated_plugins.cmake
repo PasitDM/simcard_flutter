@@ -3,6 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  esim
   permission_handler_windows
   sim_card_info
 )
